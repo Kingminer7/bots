@@ -1,1 +1,1 @@
-go to [kingminer7.github.io/bots](kingminer7.github.io/bots)
+go to [https://kingminer7.github.io/bots](https://kingminer7.github.io/bots)
